@@ -1,0 +1,7 @@
+project_id = "bopdoeernckdoiyicodp"
+
+[functions.detect-disease]
+verify_jwt = false
+
+[functions.get-weather]
+verify_jwt = false
